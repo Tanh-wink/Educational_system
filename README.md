@@ -93,4 +93,5 @@ teacher文件夹放着教师用户的jsp页面
 modify文件夹放着修改密码的jsp页面
 
 
-可关注我的博客：https://blog.csdn.net/Thanours 有更详细的说明
+可关注我的博客：https://blog.csdn.net/Thanours/article/details/79681405?spm=1001.2014.3001.5502 有更详细的说明
+如果觉得可以请点一下star，谢谢！
