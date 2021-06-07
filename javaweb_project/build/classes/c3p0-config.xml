@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c3p0-config>
+	
+	<named-config name="hua.project">
+		
+		<property name="user">root</property>
+		<property name="password">root</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql:///jiaowusystem</property>
+		
+		
+		<property name="acquireIncrement">5</property>
+		<property name="initialPoolSize">10</property>
+		<property name="minPoolSize">10</property>
+		<property name="maxPoolSize">50</property>
+		
+		<property name="maxStatements">20</property>
+		<property name="maxStatementsPerConnection">5</property>
+	
+	</named-config>
+
+</c3p0-config>
