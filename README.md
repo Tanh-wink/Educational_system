@@ -98,5 +98,5 @@ modify文件夹放着修改密码的jsp页面
 
 ## GitHub仓库星标统计
 
-[![Stargazers over time](https://starchart.cc/goto456/stopwords.svg)](https://starchart.cc/goto456/stopwords)
+[![Stargazers over time](https://starchart.cc/Tanh-wink/Educational_system.svg)](https://starchart.cc/Tanh-wink/Educational_system)
 
