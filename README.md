@@ -96,7 +96,7 @@ modify文件夹放着修改密码的jsp页面
 如果觉得可以请点一下star，谢谢！
 
 
-## Stargazers over time
+## GitHub仓库星标统计
 
 [![Stargazers over time](https://starchart.cc/goto456/stopwords.svg)](https://starchart.cc/goto456/stopwords)
 
